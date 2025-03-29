@@ -1,0 +1,14 @@
+{
+    "frames_threshold": 16384, 
+    "max_samples": 16, 
+    "max_token_length": 1024, 
+    "validation_length_per_dataset": 64,
+    "test_length_per_dataset": 8, 
+    "codec_type": "parler-tts/dac_44khZ_8kbps",
+    "pretrained_tokenizer_repo_id": "meta-llama/Llama-3.1-8B-Instruct",
+    "pretrained_weight_repo_id": "",
+    "dataset_cache_dir": "", 
+    "training_files": [],
+    "test_files": [],
+    "validation_files": []
+}

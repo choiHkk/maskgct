@@ -1,0 +1,14 @@
+numpy
+wandb
+torch
+einops
+librosa
+easydict
+evaluate
+jiwer
+datasets
+torchaudio
+accelerate
+flash-attn
+transformers
+faster-whisper
